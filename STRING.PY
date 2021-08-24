@@ -1,0 +1,7 @@
+
+# Strings
+# A string is a sequence of characters. String literals in Python are enclosed by either double or single quotes.
+
+my_string = 'Hello'
+
+#Python strings are immutable which means they cannot be changed after they are created.
